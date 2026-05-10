@@ -113,7 +113,7 @@ pdf-chat-rag/
 ## 👤 Author
 
 **Pramod Gangula** — AI Engineer  
-[GitHub](https://github.com/pramod019g-oss) · [LinkedIn](https://linkedin.com/in/snehitvaddi)
+[GitHub](https://github.com/pramod019g-oss) 
 
 ---
 
