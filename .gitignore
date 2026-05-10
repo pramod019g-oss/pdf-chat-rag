@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+faiss_index/
+*.pdf
